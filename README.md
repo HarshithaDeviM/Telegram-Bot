@@ -37,3 +37,8 @@ This is a simple Telegram bot created using the python-telegram-bot library. The
 2. Start Chatting:
    - Open Telegram and search for your bot by its username(JesterMate).
    - Start a chat with the bot by clicking the "Start" button.
+
+### Note
+```
+To ensure continuous 24/7 availability of the bot, you can host it on a cloud-based service. In my case, the bot has been successfully hosted on PythonAnywhere.
+``` 
